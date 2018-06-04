@@ -1,0 +1,22 @@
+# MSVC build stuff
+Release/
+Debug/
+.vs/
+
+/win/idag.VC.db
+/win/idag.VC.VC.opendb
+/win/idag/xdag.vcxproj.user
+/win/idagwallet/idagwallet.vcxproj.user
+/win/ipch
+/win/idagwallet/idagwallet.aps
+/win/idaglib/idaglib.vcxproj.user
+
+#mac project
+xcuserdata
+mac/idag.xcodeproj/project.xcworkspace
+
+#autotools
+.deps
+autoscan.log
+*.o
+.dirstamp
